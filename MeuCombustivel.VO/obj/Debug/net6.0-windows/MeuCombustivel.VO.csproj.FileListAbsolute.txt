@@ -1,0 +1,12 @@
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\bin\Debug\net6.0-windows\MeuCombustivel.VO.deps.json
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\bin\Debug\net6.0-windows\MeuCombustivel.VO.dll
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\bin\Debug\net6.0-windows\MeuCombustivel.VO.pdb
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.csproj.AssemblyReference.cache
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.AssemblyInfoInputs.cache
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.AssemblyInfo.cs
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.csproj.CoreCompileInputs.cache
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.dll
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\refint\MeuCombustivel.VO.dll
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\MeuCombustivel.VO.pdb
+C:\Users\linki\Desktop\Combustivel\MeuCombustivel\MeuCombustivel.VO\obj\Debug\net6.0-windows\ref\MeuCombustivel.VO.dll
